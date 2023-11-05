@@ -1,5 +1,5 @@
-# STATS201_Autumn2023-Week2
-![](image.png)
+# Welcome to Yuri Park's Page
+![](ProfileImage.png)
 # Headng 2
 
 # Heading 3
