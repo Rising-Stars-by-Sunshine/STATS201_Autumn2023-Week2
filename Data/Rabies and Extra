@@ -1,0 +1,12 @@
+Random Forest could enhance rabies research by analyzing relationships between trash management practices and rabies spread. 
+Incorporating waste management data into the machine learning model can provide deeper insights, 
+potentially improving rabies control strategies through predictive analysis.
+
+A Naive Bayes classifier, applied to rabies data, could efficiently predict outbreaks by evaluating the 
+correlation between trash management and rabies transmission, given its proficiency of handling classification
+problems based on conditional probabilities and 
+feature independence assumptions. Integrating waste management data would further refine the model's accuracy.
+
+With 
+Current data: https://www.phsciencedata.cn/Share/ky_sjml.jsp?id=7253a104-63ac-40f7-a0ac-b04c1096ae52
+Paper: https://europepmc.org/article/pmc/pmc7582209
