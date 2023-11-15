@@ -22,7 +22,7 @@ The paper “The Prediction of Disease Using Machine Learning” analyzes five m
 
 Thus, based on the calculations below,
 
-![](Lit_Image2.png)
+![](LImage2.png)
 
 such a method will be used on the testing as during the testing phase, predictions made by the machine learning model using the test data set are compared against the outcomes. In all, the results of this comparison—how many true positives, false positives, true negatives, and false negatives there are—feed into the calculations above to quantify the performance (Gomathy 2).
 
@@ -38,7 +38,7 @@ Gomathy, C. K., and Mr A. Rohith Naidu. "The prediction of disease using machine
 
 Subramani, Sivakannan, et al. "Cardiovascular diseases prediction by machine learning incorporation with deep learning." Frontiers in Medicine 10 (2023): 1150933.
 
-![](Lit_Image3.png)
+![](LImage3.png)
 
 ## Literature Review 2
 
@@ -64,7 +64,7 @@ The paper employs regression analysis, specifically utilizing the system general
 
 The paper suggests that rapid cross-industrial-chain investments can enhance the innovation capabilities of AI enterprises. Furthermore, it indicates that AI enterprises with substantial technology expertise can boost their innovation performance during rapid cross-industrial-chain investments.
 
-![](Lit_Image4.png)
+![](LImage4.png)
 
 ## Intellectual Merits and Practical Impacts:
 
@@ -72,7 +72,7 @@ The paper introduces a fresh perspective on AI enterprise expansion, emphasizing
 
 Chen, Y., Si, F., Lu, X., & Li, X. (2021, November 29). Research on the Influence Mechanism of the Across-Industrial-Chain Investment Speed on Innovation Performance of AI Enterprises: Improvement Path of Artificial Intelligence Technology Application Mobile Information Systems, 2021, 1–12. https://doi.org/10.1155/2021/6149746
 
-![](Lit_Image5.png)
+![](LImage5.png)
 
 ## Further Research Idea
 
