@@ -16,7 +16,7 @@ The paper “The Prediction of Disease Using Machine Learning” analyzes five m
 ## Methodology
 
  The following diagram represents the method of comparison analysis. 
- ![](Lit_Image1.png)
+ ![]("Lit_Image1.png")
 
  First, with the initial dataset from the certified hospital, the data will be randomly in two sets: training and testing. Such a way allows the testing set to have a data set to test without having the data seen in the training set, which is to validate the performances of the different models. Next, with the four machines leading algorithms, the data will be training the different algorithms based on the specific rules and functions each of the algorithms follows (Gomathy 3). 
 
