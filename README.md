@@ -6,7 +6,7 @@ many of may projects involve communicating messages that are
 educative at the same time, interactive. 
 With using P5.Js mainly, most of the projects are done in JavaScript.
 
-![](Lit_Image1.png)
+![](ProfileImage.png)
 
 My portfolio (updating): https://fabulous-kleicha-2e1a9d.netlify.app/
 
