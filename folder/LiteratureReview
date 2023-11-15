@@ -1,0 +1,18 @@
+## Literature Review
+
+### Background/Motivation
+
+The paper “The Prediction of Disease Using Machine Learning” analyzes five machine learning algorithms — KNN, Naïve Bayes, Decision Tree, Random Forest, and SVM — in the context of disease prediction based on user-reported symptoms. The study is motivated by the belief that identifying the most accurate algorithm will benefit doctors by providing organized and reliable data, thereby enhancing patient understanding and increasing the likelihood of correct treatment. By employing four evaluation metrics: accuracy, precision, recall, and F1 score, the study compares these algorithms to gain insights that could improve the development of Disease Predictability Software with the most effective algorithm (Gomathy 1).
+
+
+### Research Question
+
+ Among KNN, Naïve Bayes, Decision Tree, Random Forest, and SVM, which machine learning algorithm will be the most effective to implement within the web-based disease prediction system?
+
+### Application Scenarios
+
+ This research has significant potential for application in health diagnosis. With accurate hospital data, the process of training an algorithm to reflect real-world conditions becomes more effective, which, in turn, leads to more accurate testing phases (Gomathy 1). By gaining a deeper understanding of the strengths and weaknesses of each machine learning algorithm, we can make informed choices about their deployment. Although the studies mentioned above indicate that the Random Forest algorithm is the most effective, alternative algorithms might be more suitable in different scenarios (Gomathy 5). For example, when dealing with a larger dataset, the time required to process the data becomes critical, as Random Forest algorithms require considerable computational power compared to others.
+
+### Methodology
+
+ The following diagram represents the method of comparison analysis. 
