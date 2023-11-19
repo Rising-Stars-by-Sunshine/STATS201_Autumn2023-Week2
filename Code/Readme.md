@@ -74,4 +74,4 @@ are random or best split.
 3. Max features - the number of features considered when looking for the best split.
 Options tested are log2(n features), sqrt(n features) and n features.
 4. Max depth - the maximum
-* Optimal parameters for the decision tree are: criterion = entropy, splitter = best split, max features = sqrt(n features) and max depth = 10.
+<sup><sub>Optimal parameters for the decision tree are: criterion = entropy, splitter = best split, max features = sqrt(n features) and max depth = 10</sub></sup>
