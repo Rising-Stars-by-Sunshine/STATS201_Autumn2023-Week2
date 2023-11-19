@@ -5,18 +5,12 @@ Utilizing Natural Language Processing was crucial for accessing open text data. 
 ## How to Access Data
 Following the step-by-step procedure shared in Lee's GitHub page:
 
-- [x] Install the dependencies.
-* LanguageModel.py
-* classifier_m.py
-* features.py
-* driver_m.py
-* subject_object_extraction.py
-
 - [x] Download the two .7z files and extract them into your working directory:
 * plain_text.7z
 * xml.7z
 
 The text transcript files inside the plain_text.7z are already classified in the folder of "asd", "sli", and "td." To allow the computer to find the for instance differentiation for who the investigator and children speaker is, tags are within the text file.
+### Sample Tag Examples
 
 | Tag   | Description                                                                                                                                 |
 |-------|---------------------------------------------------------------------------------------------------------------------------------------------|
