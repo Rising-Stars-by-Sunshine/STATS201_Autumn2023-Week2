@@ -6,12 +6,12 @@ Utilizing Natural Language Processing was crucial for accessing open text data. 
 Following the step-by-step procedure shared in Lee's GitHub page:
 
 - [x] Install the dependencies.
-LanguageModel.py
-classifier_m.py
-features.py
-driver_m.py
-subject_object_extraction.py
+* LanguageModel.py
+* classifier_m.py
+* features.py
+* driver_m.py
+* subject_object_extraction.py
 
 - [x] Download the two .7z files and extract them into your working directory:
-plain_text.7z
-xml.7z
+* plain_text.7z
+* xml.7z
