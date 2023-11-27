@@ -15,29 +15,23 @@ The text file referenced from Lee's GitHub https://github.com/jamsawamsa/Autism_
 
 ### Simple Example Layout of the XML data structure
 
-Root
-│
-├── Participants
-│   ├── Participant (id="CHI", role="Target_Child", language="eng", age="P2Y5M", sex="male")
-│   ├── Participant (id="CLN", role="Clinician", language="eng")
-│   └── Participant (id="CAM", role="Camera_Operator", language="eng")
-│
-├── Comment (type="Activities"): "stairs"
-│
-└── Utterances
-    ├── Utterance (who="CLN", uID="u0")
-    │   ├── Word: "here's"
-    │   ├── Morphological Analysis
-    │   ├── Actions: "puts finger to hole"
-    │   └── Time Stamp: "00:30:47"
-    │
-    ├── Utterance (who="CHI", uID="u1")
-    │   └── Actions: "puts finger to hole"
-    │
-    ├── Utterance (who="CLN", uID="u2")
-    │   └── Actions: "puts finger to hole again"
-    │
-    └── [Additional Utterances]
+- **Root**
+  - **Participants**
+    - *Participant* (id="CHI", role="Target_Child", language="eng", age="P2Y5M", sex="male")
+    - *Participant* (id="CLN", role="Clinician", language="eng")
+    - *Participant* (id="CAM", role="Camera_Operator", language="eng")
+  - **Comment** (type="Activities"): "stairs"
+  - **Utterances**
+    - *Utterance* (who="CLN", uID="u0")
+      - Word: "here's"
+      - Morphological Analysis
+      - Actions: "puts finger to hole"
+      - Time Stamp: "00:30:47"
+    - *Utterance* (who="CHI", uID="u1")
+      - Actions: "puts finger to hole"
+    - *Utterance* (who="CLN", uID="u2")
+      - Actions: "puts finger to hole again"
+    - *Additional Utterances*
 
 
 ### xml.7z's Important Labels'
