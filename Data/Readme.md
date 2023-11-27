@@ -14,6 +14,7 @@ The text file referenced from Lee's GitHub https://github.com/jamsawamsa/Autism_
 * Making sure nothing is altered within these files is essential
 
 - [x] Simple Example Layout of the XML data structure
+
 Root
 │
 ├── Participants
@@ -37,6 +38,7 @@ Root
     │   └── Actions: "puts finger to hole again"
     │
     └── [Additional Utterances]
+    
 
 ### xml.7z's Important Labels'
 
