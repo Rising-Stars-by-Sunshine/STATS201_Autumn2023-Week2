@@ -58,6 +58,8 @@ Example: 56 4 150 1 1 -3.64 1 3 31 1 52 263 0 0 0 0 0.64 1 1 1 1
 | 18             | Language Model Probability: Bigram | 1 |
 | 19             | Language Model Probability: Trigram | 1 |
 | 20             | Language Model Probability: 4-gram | 1 |
-| 21             | Category Label (SLI, ASD, TYP) | 0 OR 1 OR 2 |
+| 21             | Category Label (SLI, ASD, TD) | 0 OR 1 OR 2 |
+
+This description highlights the purpose and structure of the output_file, emphasizing its role in categorizing and analyzing linguistic patterns corresponding to SLI, ASD, and TD.
 
 ## How Processing Works
