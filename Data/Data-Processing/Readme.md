@@ -35,7 +35,6 @@ Further data extraction was performed focusing on several key aspects: the Child
 Each feature extracted from the data is listed in the order they are appended to the `current_features` array. The values represent computed metrics for linguistic analysis.
 
 Example: 56 4 150 1 1 -3.64 1 3 31 1 52 263 0 0 0 0 0.64 1 1 1 1
-<sup><sub>one line from the whole data</sub></sup>
 
 | Feature Number | Description | Example Value(s) |
 |----------------|-------------|------------------|
