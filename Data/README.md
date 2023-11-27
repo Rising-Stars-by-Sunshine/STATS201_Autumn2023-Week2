@@ -10,3 +10,5 @@
 ### Data-Processing: Run Analysis and Generate Report
 * Objective: Analyze the preprocessed data to extract insights.
 * Action: Run the classifier_m.py script, which utilizes the "output_file" generated in the previous step. The classifier_m script performs the data analysis and generates a comprehensive report titled "report.txt". This report contains the detailed results and findings of the analysis.
+
+![](/Data_Breakdown.png)
