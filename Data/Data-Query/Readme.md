@@ -3,7 +3,7 @@
 Utilizing Natural Language Processing was crucial for accessing open text data. Following Lee's research approach, the CHILDES database (http://childes.talkbank.org/) was identified as a valuable resource. CHILDES offers labeled text transcripts for individuals with Autism Spectrum Disorder, Specific Language Impairment, or Typical Development. This data is instrumental in classifying children according to these categories.
 
 ## How to Access Data
-The text file referenced from Lee's GitHub https://github.com/jamsawamsa/Autism_SLI_textAnalyzer_NLP_ML is inside this folder under the tile of plain_text.7z and xml.7z. This project will be using the same exact data.
+The text file referenced from [Lee's GitHub](https://github.com/jamsawamsa/Autism_SLI_textAnalyzer_NLP_ML) is inside this folder under the tile of plain_text.7z and xml.7z. This project will be using the same exact data.
 
 - [x] Download the two .7z files and extract them into your working directory:
 * plain_text.7z (Gathering of the only plain text conversation without labels)
