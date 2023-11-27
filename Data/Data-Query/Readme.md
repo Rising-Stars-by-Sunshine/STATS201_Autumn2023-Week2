@@ -17,6 +17,7 @@ This project will be using the same exact data.
 ### Simple Example Layout of the XML data structure
 
 ![](/XML_Breakdown.png)
+<sup><sub>Made with Whimsical</sub></sup>
 
 ### xml.7z's Important Labels'
 
