@@ -13,7 +13,7 @@ The text file referenced from Lee's GitHub https://github.com/jamsawamsa/Autism_
 * The text transcript files inside the plain_text.7z and xml.7z are already classified in the folder of "asd", "sli", and "td."
 * Making sure nothing is altered within these files is essential
 
-- [x] Simple Example Layout of the XML data structure
+### Simple Example Layout of the XML data structure
 
 Root
 │
