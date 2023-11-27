@@ -16,7 +16,7 @@ This project will be using the same exact data.
 
 ### Simple Example Layout of the XML data structure
 
-![](/XML_Breakdown.png)
+![](XML_Breakdown.png)
 <sup><sub>Made with Whimsical</sub></sup>
 
 ### xml.7z's Important Labels'
@@ -30,5 +30,6 @@ This project will be using the same exact data.
 | `<t type="p">`   | Possibly indicates a pause or break in speech, especially following unintelligible utterances. | `<u who="CHI"><g><w untranscribed="unintelligible">yyy</w></g><t type="p"></t></u>` |
 | `<g>`            | Indicates an unintelligible or garbled word. | `<u who="CHI"><g><w untranscribed="unintelligible">yyy</w></g></u>` |
 | `<e>`            | Represents an action or event without speech. | `<u who="CHI"><e><action/></e></u>` |
-| `<comment>`      | Additional notes or context about the activities. | `<comment type="Activities">playing with blocks</comment>` |
+| `'CHI'`      | Speaker: Children | `<u who="CHI" uID="u59">` |
+| `'INV', 'CLN', 'MOT', 'CLI'`      | Speaker: Adult | `<u who="CLN" uID="u55">` |
 
