@@ -30,5 +30,6 @@ based on the learned patterns.
 
 Please adjust your necessary downloads based on your warning/error messages.
 
+## Simple Outline: How Data Query Works
 ![](/DataQuery.png)
 
