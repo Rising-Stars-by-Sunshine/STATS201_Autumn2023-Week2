@@ -28,14 +28,14 @@ The idea of NLP is that we are allowing the computer to break down the sentence 
 
 With supervised classification, “detecting patterns is central to NLP as these patterns usually hold new meaning that can be derived from a sentence” (Lee, 2016, pg. 6). As for this research, Lee was using supervised classification, which means after NLP finds the features, the training was done under supervision to teach what is true to generate models and the corresponding feature sets to complete the prediction phase using the MLs. 
 
-![](Medthod_2.png)
+![](/Medthod_2.png)
 
 ## Result Presentation & Model Evaluation
 With ML, ML algorithm is employed to predict classification labels like TD (Typically Developing), ASD (Autism Spectrum Disorder), or SLI (Specific Language Impairment) based on the input data. Each algorithm employs a distinct method to reach its conclusions, which allows for observation and analysis of how features are classified and detected. Consequently, different ML algorithms yield varying results. This variation implies that each algorithm has its unique strengths. Poliker's strategy capitalizes on this by using multiple learning algorithms simultaneously, aiming to achieve higher predictive capability than what would be possible with each algorithm individually (Lee, 2016, pg. 7). Thus, as my research is based on Lee’s research, I would do the similar. Thus, even for the data visualization, using a confusion matrix, I will compare the results of each ML algorithm before and after the feature extraction to each other as well as to the baseline performance as the evaluation(Lee, 2016, pg. 20).
 
 Specifically, for evaluation purposes, metrics such as precision, recall, and F-measure will be calculated using the following formula. 
 
-![](Medthod_3.png)
+![](/Medthod_3.png)
 
 Additionally, by introducing the Random Forest algorithm as an additional machine learning model, we will assess its performance based on parameters provided by Random Forest, such as max depth.
 
@@ -46,3 +46,6 @@ Dewi, E. S., & Imah, E. M. (2020). Comparison of machine learning algorithms for
 Lee, Z. K. J. (2016). Use of Natural Language Processing and Machine Learning Techniques to Clinically Assess Children's Autism Spectrum Disorder and Specific Language Impairment. 
 
 Qureshi, M. S., Qureshi, M. B., Asghar, J., Alam, F., & Aljarbouh, A. (2023). Prediction and analysis of Autism Spectrum Disorder Using Machine Learning Techniques. Journal of Healthcare Engineering, 2023, 1–10. https://doi.org/10.1155/2023/4853800 
+
+### Simplified Ideation of Prediction Problem & Machine Learning
+![](/Medthod_4.png)
