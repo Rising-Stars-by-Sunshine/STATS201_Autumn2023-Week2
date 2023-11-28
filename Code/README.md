@@ -1,4 +1,4 @@
-#Significance of Getting Pre-processed Data
+# Significance of Getting Pre-processed Data
 The data file created during the preprocessing stage is pivotal for the successful execution of classifier_m.py 
 in distinguishing between ASD (Autism Spectrum Disorder), SLI (Specific Language Impairment), and TD (Typically 
 Developing) categories. This file, essentially a feature matrix, encapsulates a range of linguistic attributes 
@@ -16,19 +16,17 @@ recognition capabilities, forming the backbone of the machine learning process. 
 classifier to make informed and reliable predictions about new, unseen data, categorizing them into ASD, SLI, or TD, 
 based on the learned patterns.
 
-\begin{table}[h]
-\centering
-\begin{tabular}{|l|l|}
-\hline
-\textbf{Step} & \textbf{Action} \\ \hline
-Install Dependencies & \begin{tabular}[c]{@{}l@{}}LanguageModel.py, classifier\_m.py, features.py, \\ driver\_m.py, subject\_object\_extraction.py\end{tabular} \\ \hline
-Environment Setup & \begin{tabular}[c]{@{}l@{}}Adjust Python interpreter paths to match the terminal.\\ Use the same interpreter (e.g., Anaconda, venv).\end{tabular} \\ \hline
-Check Python Path & \begin{tabular}[c]{@{}l@{}}Run `import sys; print(sys.executable)` in Python and\\ `which python` in the terminal to verify paths.\end{tabular} \\ \hline
-Update Python Interpreter & \begin{tabular}[c]{@{}l@{}}If using PyCharm on macOS, update the interpreter \\ in Settings to match the terminal's Python path.\end{tabular} \\ \hline
-Download Packages & \begin{tabular}[c]{@{}l@{}}Download and update packages as needed.\\ Pay attention to package version compatibility.\end{tabular} \\ \hline
-Additional nltk Functions & \begin{tabular}[c]{@{}l@{}}Download additional nltk functions based on \\ the requirements (e.g., `nltk.download('wordnet')`).\end{tabular} \\ \hline
-Run Pre-processing & \begin{tabular}[c]{@{}l@{}}Execute driver\_m.py with print statements for progress tracking.\\ The script generates `output\_file` with processed data.\end{tabular} \\ \hline
-\end{tabular}
-\caption{Data Query and Pre-processing Steps}
-\label{tab:data-query-process}
-\end{table}
+## Simple Data Query and Pre-Processing Steps
+
+| Step                        | Action                                                                                                   |
+|-----------------------------|----------------------------------------------------------------------------------------------------------|
+| Install Dependencies        | Install scripts: `LanguageModel.py`, `classifier_m.py`, `features.py`, `driver_m.py`, `subject_object_extraction.py` |
+| Environment Setup           | Align Python interpreter in PyCharm with the terminal's interpreter. Use Anaconda or a virtual environment. |
+| Check Python Path           | Run `import sys; print(sys.executable)` in Python and `which python` in the terminal to verify paths.     |
+| Update Python Interpreter   | In PyCharm (macOS), update the interpreter in Settings to match the terminal's Python path.               |
+| Download Packages           | Download necessary packages and update as needed. Pay attention to version compatibility.                 |
+| Additional nltk Functions   | Download additional nltk functions as required (e.g., `nltk.download('wordnet')`).                        |
+| Run Pre-processing          | Execute `driver_m.py` with print statements for tracking. Generates `output_file` with processed data.    |
+
+Please adjust your necessary downloads based on your warning/error messages.
+
