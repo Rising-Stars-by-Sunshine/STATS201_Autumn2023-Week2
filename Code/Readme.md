@@ -1,77 +1,45 @@
-## Necessary Code from Lee's Research
-Following the step-by-step procedure shared in Lee's GitHub page:
+## Setting up the Pre-processing Workplace
+After following the Data Query steps, the following content below is some additional comments based on the step-by-step procedure shared on Lee's GitHub page:
 
-- [x] Install the dependencies.
+- [x] Install the dependencies
 * LanguageModel.py
-* classifier_m.py
+* classifier_m.py (mainly used for the processing)
 * features.py
-* driver_m.py
+* driver_m.py (mainly used for the pre-processing)
 * subject_object_extraction.py
 
-## Why Random Forest
+- [x] Working Environment Setup using PyCharm
+* Adjust the discrepancy in the Python interpreter paths 
+Have your Python Interpreter and your terminal located/using the same  interpreter. For example, you need to have both be using Anaconda or a virtual environment.
+You can check this information by running
 
-With Lee mentioning the use of the decision tree, Shide and Patil emphasized that "decision tree is over-fitting which can be handled by employing Random Forest. Ensemble of trees has led to considerable enhancement in the accuracy of the classification and permitted to vote for most accepted class" (Shinde & Patil, 2023). Following, with other researchers, including Shide and Patil, found that Random Forrest was proven to be the most accurate, my hypothesis was raised (Dewi & Imah, 2020; Qureshi et al., 2023).
+import sys
+print(sys.executable) in .py and
+which python in the terminal
 
-Shinde, A. V., &amp; Patil, D. D. (2023). A multi-classifier-based recommender system for early autism spectrum disorder detection using machine learning. Healthcare Analytics, 4, 100211. https://doi.org/10.1016/j.health.2023.100211 
+doing so, you should import and update the package information on the same track. I highly suggest you have the Python Interpreter adjusted based on the virtual environment because the change you made to the PATH variable in your terminal session is not permanent—it only applies to the current terminal session. When you close this terminal window and open a new one, the PATH will revert to its previous state, and you will have to make the adjustment again.
 
-## What is Random Forest
+Example: If your terminal responds /Users/yuri/opt/anaconda3/bin/python when you run which python, you need to manually change the Python Interpreter from (if you are a Mac user) PyCharm > Settings > Python Interpreter > Add and have Anaconda with the path you have given in the terminal response
 
-The Random Forest algorithm is particularly well-suited for handling nonlinear relationships and complex interactions between features. 
-It operates by constructing multiple decision trees during the training phase and outputting the mode of the classes 
-(classification) or mean prediction (regression) of the individual trees.
+[!](/Demo_Anaconda.png)
 
-## Random Forest's Code
-Referenced based on https://ishanjain-ai.medium.com/understanding-random-forest-algorithm-with-python-code-ae6fb0e34938
+* Download all the necessary packages that were mentioned briefly in the Data Query steps
+Check the warnings: Some packages need to be updated in terms of the version of the other following package that works hand in hand thus,
+Example: if the downloaded default version of the spaCy is version 3.3.1 and your en_core_web_sm pipeline is version 3.7.1 you can either
+1. conda update spacy then check with python -m spacy --version or
+2. python -m spacy download en_core_web_sm==3.3.1 then check with python -m spacy validate
 
-### Import necessary libraries
-import numpy as np
-import pandas as pd
-from sklearn.datasets import load_iris
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import accuracy_score
+* Download additional necessary functions
+In my case, I had to download some function features in nltk package to run the code.
 
-### Load the dataset
-data = load_rabies()
-X = pd.DataFrame(data.data, columns=data.feature_names)
-y = pd.Series(data.target, name='target')
+nltk.download('wordnet')
+nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('averaged_perceptron_tagger')
+nltk.download('universal_tagset')
+nltk.download('cmudict')
 
-### Split the dataset into training and testing sets
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+Please adjust your necessary downloads based on your warning/error messages
 
-### Creating a Random Forest classifier
-rf_classifier = RandomForestClassifier(n_estimators=100, max_depth=3, random_state=42)
-
-### Train the classifier on the training data
-rf_classifier.fit(X_train, y_train)
-
-### Make predictions on the test data
-y_pred = rf_classifier.predict(X_test)
-
-## Calculate accuracy
-accuracy = accuracy_score(y_test, y_pred)
-print(f"Accuracy: {accuracy:.2f}")
-
-# Multunomial Naive Bayes Classifier
-Referenced based on https://developer.ibm.com/tutorials/awb-classifying-data-multinomial-naive-bayes-algorithm/
-
-Since Naive Bayes Classifier works under the idea that the features are conditionally independent given the output class,
-a direct comparison can be made with random Forests.
-
-## What more needed
-With using the Random Forest, parameter setting would be necessary to better tailor the algorithm to our research. Thus, by following the basic idea given from
-### Shide and Patil's Instructions on using Random Forest
-1. Choose random data samples from the training dataset
-2. Construct the decision tree using chosen data samples
-3. Select the number of decision trees to be built.
-4. On arrival of new data sample, Classifier predicts final decision using majority of votes given by decision-constructed trees.
-
-### Lee's Markdown on Decision Tree's Parameter Setting (
-1. Criterion - the function that measures the quality of a split. Criterion functions
-tested are the Gini impurity and entropy information gain.
-2. Splitter - the strategy used to select a split point at each node. Available options
-are random or best split.
-3. Max features - the number of features considered when looking for the best split.
-Options tested are log2(n features), sqrt(n features) and n features.
-4. Max depth - the maximum
-(Optimal parameters for the decision tree are: criterion = entropy, splitter = best split, max features = sqrt(n features) and max depth = 10)
+## Getting the output_file data
+When running the code, I suggest you have a print("") function in-between so that you know the loop is running to have the data processing for each line in XML. When the whole loop is done, you will be able to find a file made in the folder named output_file. (I have attached my output result also in this folder)
