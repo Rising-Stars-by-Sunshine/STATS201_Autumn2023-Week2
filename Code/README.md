@@ -16,7 +16,7 @@ recognition capabilities, forming the backbone of the machine learning process. 
 classifier to make informed and reliable predictions about new, unseen data, categorizing them into ASD, SLI, or TD, 
 based on the learned patterns.
 
-## Simple Data Query and Pre-Processing Steps
+## Simple [Data Query and Pre-Processing](Code/Data-Query) Steps
 
 | Step                        | Action                                                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------------------|
