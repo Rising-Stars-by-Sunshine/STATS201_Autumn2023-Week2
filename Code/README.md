@@ -1,4 +1,9 @@
-# Significance of Getting Pre-processed Data
+# How the Processed Data will be Found
+The classifier_m.py does the machine learning process for distinguishing between Speech Language Impairment (SLI), Autism Spectrum Disorder (ASD), and Typically Developing (TD) speech patterns. It leverages a variety of classification algorithms, including decision trees, k-nearest neighbors, Gaussian Naive Bayes, Multi-Layer Perceptron, and Support Vector Machines, with an ensemble approach for optimized predictions.
+
+The output_file, generated from the preprocessing phase, comprises extracted feature sets and corresponding labels (SLI, ASD, TD). This file is split into training and test datasets, where the training set is used to train the classifiers and the test set to evaluate their performance. Key steps include feature selection, model training, cross-validation, and performance evaluation using metrics like accuracy, precision, recall, and confusion matrices. The script's end goal is to develop a robust model that accurately classifies new data into SLI, ASD, or TD categories, thereby providing insightful analysis into distinct speech patterns.
+
+# Significance of Getting Pre-processed Data: output_file
 The data file created during the preprocessing stage is pivotal for the successful execution of classifier_m.py 
 in distinguishing between ASD (Autism Spectrum Disorder), SLI (Specific Language Impairment), and TD (Typically 
 Developing) categories. This file, essentially a feature matrix, encapsulates a range of linguistic attributes 
