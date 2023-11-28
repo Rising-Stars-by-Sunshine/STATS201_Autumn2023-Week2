@@ -1,4 +1,5 @@
 # Impact of Adding Random Forrest
 
-
 Incorporating a Random Forest classifier into this research adds a robust and versatile model known for its high accuracy and ability to handle large datasets with multiple features. Random Forest, an ensemble method comprising numerous decision trees, excels in reducing overfitting and increasing predictive accuracy. It achieves this by averaging the results of individual trees, which individually may be prone to overfitting. Its inclusion would enhance the research by providing a more comprehensive analysis, especially in complex classification tasks like distinguishing between SLI, ASD, and TD speech patterns.
+
+Current research indicates that Random Forest is highly accurate (Dewi & Imah, 2020; Qureshi et al., 2023). By integrating Random Forest into this study, we can not only identify potential gaps but also contribute significantly to the field. If Random Forest proves effective in Lee's research, it will validate the robustness of the methodology and bolster confidence in the conclusions drawn. Conversely, if it underperforms, it will prompt further investigation into why this is the case, potentially uncovering unique features or aspects of Lee's research approach that differ from or even challenge conventional findings.
