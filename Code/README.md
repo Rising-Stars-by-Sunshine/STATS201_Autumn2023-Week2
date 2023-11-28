@@ -30,5 +30,5 @@ based on the learned patterns.
 
 Please adjust your necessary downloads based on your warning/error messages.
 
-![](/Demo_Anaconda.png)
+![](/DataQuery.png)
 
