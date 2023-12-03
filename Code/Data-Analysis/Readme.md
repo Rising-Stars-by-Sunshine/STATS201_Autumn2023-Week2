@@ -33,7 +33,7 @@ Below are the results without the teaching process. This result will be compared
   <img src="/Code/Data-Analysis/Processed/GaussianN.png" width="240" />
 </p>
 <p float="left">
-  <img src="/Code/Data-Analysis/Processed_Output/K-Nearest.png" width="240" />
+  <img src="/Code/Data-Analysis/Processed/K-Nearest.png" width="240" />
   <img src="/Code/Data-Analysis/Processed_Output/NeuralN.png" width="240" />
   <img src="/Code/Data-Analysis/Processed_Output/RandomF.png" width="240" />
   <img src="/Code/Data-Analysis/Processed_Output/SVM.png" width="240" />
