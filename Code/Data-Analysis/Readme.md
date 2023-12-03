@@ -21,7 +21,7 @@ Below are the results without the teaching process. This result will be compared
 <p float="left">
   <img src="/Code/Data-Analysis/Pre-processed/Pre_K-Nearest.png" width="240" />
   <img src="/Code/Data-Analysis/Pre-processed/Pre_NeuralN.png" width="240" />
-  <img src="/Code/Data-Analysis/Pre-processed/Pre_RandomF" width="240" />
+  <img src="/Code/Data-Analysis/Pre-processed/Pre_RandomF.png" width="240" />
   <img src="/Code/Data-Analysis/Pre-processed/Pre_SVM.png" width="240" />
 </p>
 
