@@ -13,15 +13,18 @@ Below are the results without the teaching process. This result will be compared
 
 ## Pre-processed Result
 <p float="left">
-  <img src="/Code/Data-Analysis/Pre-Processed_Output/Pre_DecisionTree.png" width="240" />
-  <img src="/Code/Data-Analysis/Pre-Processed_Output/Pre_EnsembleM.png" width="240" />
-  <img src="/Code/Data-Analysis/Pre-Processed_Output/Pre_GaussianN.png" width="240" />
+  <img src="/Code/Data-Analysis/Pre-processed/Pre_DecisionTree.png" width="240" />
+  <img src="/Code/Data-Analysis/Pre-Processed/Pre_EnsembleM.png" width="240" />
+  <img src="/Code/Data-Analysis/Pre-Processed/Pre_GaussianN.png" width="240" />
 </p>
+
+Code/Data-Analysis/Pre-processed/Pre_DecisionTree.png
+
 <p float="left">
-  <img src="/Code/Data-Analysis/Pre-Processed_Output/Pre_K-Nearest.png" width="240" />
-  <img src="/Code/Data-Analysis/Pre-Processed_Output/Pre_NeuralN.png" width="240" />
-  <img src="/Code/Data-Analysis/Pre-Processed_Output/Pre_RandomF.png" width="240" />
-  <img src="/Code/Data-Analysis/Pre-Processed_Output/Pre_SVM.png" width="240" />
+  <img src="/Code/Data-Analysis/Pre-Processed/Pre_K-Nearest.png" width="240" />
+  <img src="/Code/Data-Analysis/Pre-Processed/Pre_NeuralN.png" width="240" />
+  <img src="/Code/Data-Analysis/Pre-Processed/Pre_RandomF.png" width="240" />
+  <img src="/Code/Data-Analysis/Pre-Processed/Pre_SVM.png" width="240" />
 </p>
 
 ## Processed Result
