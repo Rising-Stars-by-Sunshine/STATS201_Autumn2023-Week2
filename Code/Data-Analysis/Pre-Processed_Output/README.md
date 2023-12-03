@@ -1,5 +1,5 @@
 # Hi
-<p float="left">
+<p float="center">
   <img src="/Code/Data-Analysis/Pre-Processed_Output/Pre_DecisionTree.png" width="100" />
   <img src="/Code/Data-Analysis/Pre-Processed_Output/Pre_EnsembleM.png" width="100" />
   <img src="/Code/Data-Analysis/Pre-Processed_Output/Pre_GaussianN.png" width="100" />
