@@ -15,27 +15,27 @@ Below are the results without the teaching process. This result will be compared
 <p float="left">
   <img src="/Code/Data-Analysis/Pre-processed/Pre_DecisionTree.png" width="240" />
   <img src="/Code/Data-Analysis/Pre-processed/Pre_EnsembleM.png" width="240" />
-  <img src="/Code/Data-Analysis/Pre-Processed/Pre_GaussianN.png" width="240" />
+  <img src="/Code/Data-Analysis/Pre-processed/Pre_GaussianN.png" width="240" />
 </p>
 
 <p float="left">
   <img src="/Code/Data-Analysis/Pre-processed/Pre_K-Nearest.png" width="240" />
   <img src="/Code/Data-Analysis/Pre-processed/Pre_NeuralN.png" width="240" />
-  <img src="/Code/Data-Analysis/Pre-processed/Pre_GaussianN.png" width="240" />
+  <img src="/Code/Data-Analysis/Pre-processed/Pre_RandomF" width="240" />
   <img src="/Code/Data-Analysis/Pre-processed/Pre_SVM.png" width="240" />
 </p>
 
 ## Processed Result
 <p float="left">
-  <img src="/Code/Data-Analysis/Pre-processed_Output/DecisionTree.png" width="240" />
+  <img src="/Code/Data-Analysis/Processed_Output/DecisionTree.png" width="240" />
   <img src="/Code/Data-Analysis/Pre-Processed_Output/EnsembleM.png" width="240" />
   <img src="/Code/Data-Analysis/Pre-Processed_Output/GaussianN.png" width="240" />
 </p>
 <p float="left">
-  <img src="/Code/Data-Analysis/Pre-Processed_Output/K-Nearest.png" width="240" />
-  <img src="/Code/Data-Analysis/Pre-Processed_Output/NeuralN.png" width="240" />
-  <img src="/Code/Data-Analysis/Pre-Processed_Output/RandomF.png" width="240" />
-  <img src="/Code/Data-Analysis/Pre-Processed_Output/SVM.png" width="240" />
+  <img src="/Code/Data-Analysis/Processed_Output/K-Nearest.png" width="240" />
+  <img src="/Code/Data-Analysis/Processed_Output/NeuralN.png" width="240" />
+  <img src="/Code/Data-Analysis/Processed_Output/RandomF.png" width="240" />
+  <img src="/Code/Data-Analysis/Processed_Output/SVM.png" width="240" />
 </p>
 
 
