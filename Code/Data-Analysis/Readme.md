@@ -34,7 +34,7 @@ Below are the results without the teaching process. This result will be compared
 </p>
 <p float="left">
   <img src="/Code/Data-Analysis/Processed/K-Nearest.png" width="240" />
-  <img src="/Code/Data-Analysis/Processed_Output/NeuralN.png" width="240" />
+  <img src="/Code/Data-Analysis/Processed/NeuralN.png" width="240" />
   <img src="/Code/Data-Analysis/Processed_Output/RandomF.png" width="240" />
   <img src="/Code/Data-Analysis/Processed_Output/SVM.png" width="240" />
 </p>
