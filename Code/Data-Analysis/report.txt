@@ -1,0 +1,235 @@
+total labels: 258
+number of TYP: 124, ratio over total: (0.480620)
+number of ASD: 33, ratio over total: (0.127907)
+number of SLI: 101, ratio over total: (0.391473)
+largest population: 124 counts
+therefore the baseline accuracy expected for all estimators is (0.480620) which is equivalent to randomly labelingeverything as the largest population
+training set proportions:  (73, 25, 82)
+test set proportions:  (28, 8, 42)
+--------------------------
+
+Features: 
+0 : total words
+1 : number of different words
+2 : total utterances
+3 : mean length of utterances
+4 : average syllables per word
+5 : flesch kincaid score
+6 : raw verbs vs total verbs
+7 : number of different pos tags
+8 : number of repeated words/phrases
+9 : number of partial words
+10 : number of filler words
+11 : degree of conversational support
+12 : prosody
+13 : average clauses per sentence
+14 : average left branching depth
+15 : max parse tree height
+16 : language model average uni-gram probability
+17 : language model average bi-gram probability
+18 : language model average tri-gram probability
+19 : language model average 4-gram probability
+--------------------------
+
+Estimator scoring including: cross validation with stratified K-fold sampling (k = 4), mean accuracy, accuracy precision, recall and f-measure
+--------------------------
+Decision Tree: 
+Mean accuracy: 0.77
+Accuracy from CV scoring: 0.78 (+/- 0.04)
+              precision    recall  f1-score   support
+
+         0.0       0.77      0.82      0.79        28
+         1.0       0.57      0.50      0.53         8
+         2.0       0.80      0.79      0.80        42
+
+    accuracy                           0.77        78
+   macro avg       0.71      0.70      0.71        78
+weighted avg       0.77      0.77      0.77        78
+
+Confusion matrix, without normalization
+[[23  1  4]
+ [ 0  4  4]
+ [ 7  2 33]]
+--------------------------
+
+K-Nearest Neighbor: 
+Mean accuracy: 0.85
+Accuracy from CV scoring: 0.77 (+/- 0.05)
+              precision    recall  f1-score   support
+
+         0.0       0.81      0.89      0.85        28
+         1.0       0.80      0.50      0.62         8
+         2.0       0.88      0.88      0.88        42
+
+    accuracy                           0.85        78
+   macro avg       0.83      0.76      0.78        78
+weighted avg       0.85      0.85      0.84        78
+
+Confusion matrix, without normalization
+[[25  0  3]
+ [ 2  4  2]
+ [ 4  1 37]]
+--------------------------
+
+Gaussian Naive Bayes: 
+Mean accuracy: 0.74
+Accuracy from CV scoring: 0.90 (+/- 0.00)
+              precision    recall  f1-score   support
+
+         0.0       0.71      0.86      0.77        28
+         1.0       0.50      1.00      0.67         8
+         2.0       0.93      0.62      0.74        42
+
+    accuracy                           0.74        78
+   macro avg       0.71      0.83      0.73        78
+weighted avg       0.80      0.74      0.75        78
+
+Confusion matrix, without normalization
+[[24  2  2]
+ [ 0  8  0]
+ [10  6 26]]
+--------------------------
+
+Neural Network, Multilayer Perceptron: 
+Mean accuracy: 0.83
+Accuracy from CV scoring: 0.86 (+/- 0.02)
+              precision    recall  f1-score   support
+
+         0.0       0.81      0.93      0.87        28
+         1.0       0.58      0.88      0.70         8
+         2.0       0.94      0.76      0.84        42
+
+    accuracy                           0.83        78
+   macro avg       0.78      0.86      0.80        78
+weighted avg       0.86      0.83      0.84        78
+
+Confusion matrix, without normalization
+[[26  1  1]
+ [ 0  7  1]
+ [ 6  4 32]]
+--------------------------
+
+Support Vector Machine: 
+Mean accuracy: 0.85
+Accuracy from CV scoring: 0.86 (+/- 0.04)
+              precision    recall  f1-score   support
+
+         0.0       0.90      0.93      0.91        28
+         1.0       0.55      0.75      0.63         8
+         2.0       0.89      0.81      0.85        42
+
+    accuracy                           0.85        78
+   macro avg       0.78      0.83      0.80        78
+weighted avg       0.86      0.85      0.85        78
+
+Confusion matrix, without normalization
+[[26  0  2]
+ [ 0  6  2]
+ [ 3  5 34]]
+--------------------------
+
+Ensemble method, Soft Voting: 
+Mean accuracy: 0.87
+Accuracy from CV scoring: 0.88 (+/- 0.02)
+              precision    recall  f1-score   support
+
+         0.0       0.90      0.93      0.91        28
+         1.0       0.62      1.00      0.76         8
+         2.0       0.94      0.81      0.87        42
+
+    accuracy                           0.87        78
+   macro avg       0.82      0.91      0.85        78
+weighted avg       0.89      0.87      0.88        78
+
+Confusion matrix, without normalization
+[[26  0  2]
+ [ 0  8  0]
+ [ 3  5 34]]
+--------------------------
+
+Random Forest: 
+Mean accuracy: 0.87
+Accuracy from CV scoring: 0.86 (+/- 0.06)
+              precision    recall  f1-score   support
+
+         0.0       0.87      0.93      0.90        28
+         1.0       0.75      0.75      0.75         8
+         2.0       0.90      0.86      0.88        42
+
+    accuracy                           0.87        78
+   macro avg       0.84      0.85      0.84        78
+weighted avg       0.87      0.87      0.87        78
+
+Confusion matrix, without normalization
+[[26  0  2]
+ [ 0  6  2]
+ [ 4  2 36]]
+--------------------------
+
+Feature ranking:
+1. feature 11: degree of conversational support (0.093119)
+2. feature 16: language model average uni-gram probability (0.086361)
+3. feature 19: language model average 4-gram probability (0.085402)
+4. feature 18: language model average tri-gram probability (0.064129)
+5. feature 9: number of partial words (0.061267)
+6. feature 10: number of filler words (0.060462)
+7. feature 8: number of repeated words/phrases (0.059598)
+8. feature 2: total utterances (0.059236)
+9. feature 3: mean length of utterances (0.058726)
+10. feature 17: language model average bi-gram probability (0.058240)
+11. feature 14: average left branching depth (0.054563)
+12. feature 5: flesch kincaid score (0.054103)
+13. feature 13: average clauses per sentence (0.034959)
+14. feature 0: total words (0.032819)
+15. feature 6: raw verbs vs total verbs (0.030588)
+16. feature 1: number of different words (0.028229)
+17. feature 7: number of different pos tags (0.028043)
+18. feature 4: average syllables per word (0.027185)
+19. feature 12: prosody (0.022972)
+20. feature 15: max parse tree height (0.000000)
+--------------------------
+
+Retraining estimators with extracted features only: 
+Estimator scoring including: cross validation with stratified K-fold sampling (k = 4), mean accuracy, accuracy precision, recall and f-measure
+--------------------------
+Decision Tree: 
+Mean accuracy: 0.81
+Accuracy from CV scoring: 0.87 (+/- 0.06)
+              precision    recall  f1-score   support
+
+         0.0       0.86      0.86      0.86        28
+         1.0       0.50      0.75      0.60         8
+         2.0       0.87      0.79      0.82        42
+
+    accuracy                           0.81        78
+   macro avg       0.74      0.80      0.76        78
+weighted avg       0.83      0.81      0.81        78
+
+Confusion matrix, without normalization
+[[24  1  3]
+ [ 0  6  2]
+ [ 4  5 33]]
+--------------------------
+
+K-Nearest Neighbor: 
+Mean accuracy: 0.85
+Accuracy from CV scoring: 0.83 (+/- 0.02)
+              precision    recall  f1-score   support
+
+         0.0       0.81      0.89      0.85        28
+         1.0       0.83      0.62      0.71         8
+         2.0       0.88      0.86      0.87        42
+
+    accuracy                           0.85        78
+   macro avg       0.84      0.79      0.81        78
+weighted avg       0.85      0.85      0.84        78
+
+Confusion matrix, without normalization
+[[25  0  3]
+ [ 1  5  2]
+ [ 5  1 36]]
+--------------------------
+
+Gaussian Naive Bayes: 
+Mean accuracy: 0.76
+Accuracy from CV scoring: 0.88 (+/- 0.02)
