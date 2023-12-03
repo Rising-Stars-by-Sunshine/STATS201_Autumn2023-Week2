@@ -27,7 +27,6 @@ Below are the results without the teaching process. This result will be compared
 
 ## Processed Result
 <p float="left">
-  
   <img src="/Code/Data-Analysis/Processed/DecisionTree.png" width="240" />
   <img src="/Code/Data-Analysis/Processed/EnsembleM.png" width="240" />
   <img src="/Code/Data-Analysis/Processed/GaussianN.png" width="240" />
@@ -39,4 +38,5 @@ Below are the results without the teaching process. This result will be compared
   <img src="/Code/Data-Analysis/Processed/SVM.png" width="240" />
 </p>
 
+# Overall Graphic Result
 
