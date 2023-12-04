@@ -34,3 +34,6 @@ Under the inspiration of [Lee's research](https://github.com/jamsawamsa/Autism_S
 For this project to continue, the following needs to be completed in the order of hierarchy
 1. Implement the code based on Lee's research
 2. Study the Random Forest ML equation and consider what is the parameter setting for Random Forest
+
+# Whole Poster
+![](WholePoster.png)
