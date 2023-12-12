@@ -4,7 +4,7 @@
    * **Author**: Yuri Park, Computation and Design - Digital Media, 2025, Duke Kunshan University
    * **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
    * **Disclaimer**: Submissions to the Final Project for [STATS201 Introduction to Machine Learning for Social Science, 2023 Autumn Term (Seven Week - Second)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-   * **Acknowledgments**: I extend my sincere gratitude to Professor Zhang for her thoughtful and unwavering guidance throughout my introduction to machine learning in her class. Prof. Zhang's patience was invaluable, especially when I faced challenges in selecting a research topic. I am truly grateful for her consistent support, including the extra office hours she dedicated to helping me overcome difficulties.
+   * **Acknowledgments**: I extend my sincere gratitude to Professor Zhang for her thoughtful and unwavering guidance throughout my introduction to machine learning in her class. Prof. Zhang's patience was invaluable, especially when I faced challenges in selecting a research topic. I am truly grateful for her consistent support, including the extra office hours she dedicated to helping me overcome difficulties. <br>
      I also want to express my heartfelt thanks to all my classmates for fostering a supportive environment. Their constructive insights and suggestions played a crucial role in refining my research, ensuring it became a comprehensive exploration with in-depth explanations. Together, Prof. Zhang and my classmates have significantly contributed to my learning experience, for which I am truly appreciative.
 
 ## Introduction
