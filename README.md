@@ -1,7 +1,7 @@
 # Random forest in Classifying SLI / ASD / TD
 
 ## Project Information
-   * Unordered First
+   * **Unordered** First
    * Unordered Second
    * Unordered Third
 
