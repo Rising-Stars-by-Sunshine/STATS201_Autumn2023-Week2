@@ -1,6 +1,9 @@
 # Random forest in Classifying  SLI / ASD / TD
 
 ## Project Information
+   * Unordered First
+   * Unordered Second
+   * Unordered Third
 
 ## Introduction
 I am an undergraduate student from Duke Kunshan University.
