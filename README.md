@@ -1,9 +1,9 @@
 # Random forest in Classifying SLI / ASD / TD
 
 ## Project Information
-   * **Unordered** First
-   * Unordered Second
-   * Unordered Third
+   * **Author**: Yuri Park, Computation and Design - Digital Media, 2025, Duke Kunshan University
+   * **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
+   * **Disclaimer**: Submissions to the Final Project for [STATS201 Introduction to Machine Learning for Social Science, 2023 Autumn Term (Seven Week - Second)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 
 ## Introduction
 I am an undergraduate student from Duke Kunshan University.
