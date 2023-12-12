@@ -1,4 +1,7 @@
-# Welcome to Yuri Park's Page
+# Random forest in Classifying  SLI / ASD / TD
+
+## Project Information
+
 ## Introduction
 I am an undergraduate student from Duke Kunshan University.
 With my special interest in education and passion in communication,
