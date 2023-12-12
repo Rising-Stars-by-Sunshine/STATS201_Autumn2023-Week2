@@ -1,4 +1,4 @@
-# Random forest in Classifying  SLI / ASD / TD
+# Random forest in Classifying SLI / ASD / TD
 
 ## Project Information
    * Unordered First
