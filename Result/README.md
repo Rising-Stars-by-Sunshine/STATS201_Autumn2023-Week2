@@ -58,3 +58,5 @@ The image on the left displays the rankings of the most important features befor
 
 >  In the conclusion of the second hypothesis, it becomes evident that the addition of Random Forest has yielded unexpected findings. These go beyond merely confirming its efficacy and extend to revealing valuable insights—specifically, identifying more accurate features that significantly impact the prediction process.
 
+# Result Summary
+![](Result/Summary_Result.png)
