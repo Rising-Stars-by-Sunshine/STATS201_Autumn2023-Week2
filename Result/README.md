@@ -1,7 +1,8 @@
 # Result Analysis
 With my research question being
 > Can Random Forest surpass the consistently high-performing SVM, which attained an accuracy score of 87% +/- 3% in Lee's study (Lee, 2016, pg. 32)? Furthermore, how can the addition of Random Forest contribute to a deeper understanding of language impairment, propelling research advancements in this field?
-the results below help answer the two questions asked
+
+the results below help answer the two hypothesis raised.
 
 # Main Result Output
 The result are divided in the catagory of pre-processed and processed. In such way, understading of the before and after the application of each algorithm can be obsereved.
