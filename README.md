@@ -25,8 +25,6 @@
   * **More about the Author**: Information about the background and qualifications of the researcher.
   * **References**: Citations and sources used in the document.
 
-
-
 ## Spotlight
 ![](overallPoster.png)
 
@@ -42,9 +40,16 @@ My portfolio Website: yuripark.me
   * **Living a purposeful life**: In the future, I aspire to be acknowledged as a designer characterized by a commitment to care. Given that many of my projects center around improving the learning process and addressing global issues, I aim to be recognized within the design community as a leading advocate for compassionate design.
 
 
+## References
+### Data Source
+  * **CHILDES**: https://childes.talkbank.org/
+  * **Lee's Research**: https://github.com/jamsawamsa/Autism_SLI_textAnalyzer_NLP_ML.git
 
+### Code Source
+  * **Lee's Research**: https://github.com/jamsawamsa/Autism_SLI_textAnalyzer_NLP_ML.git
 
-
+### Articles
+### Literature
 
 
 ## Current Project's Goal
