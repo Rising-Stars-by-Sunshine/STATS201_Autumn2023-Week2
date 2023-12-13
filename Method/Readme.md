@@ -19,7 +19,18 @@
 # The Machine Learning Workflow
 
 ## Model Development:
-* **Data Processing**: The idea of NLP is that we are allowing the computer to break down the sentence by tokenization – the process of converting a sequence of text into smaller parts, known as tokens – and part-of-speech tagging (POS) to analyze the semantics and associate with a feature to distinguish between TD, ASD, or SLI children. Such a method would allow NLP to be executed to measure such as the mean length of utterance, total number of words, and even sentence complexity for intelligence and more. *As a common trait, many features are usually employed to detect LI in children, and feature with algorithm enhances the precision (Lee, 2016, pg. 6). With supervised classification, “detecting patterns is central to NLP as these patterns usually hold new meaning that can be derived from a sentence” (Lee, 2016, pg. 6). As for this research, Lee was using supervised classification, which means after NLP finds the features, the training was done under supervision to teach what is true to generate models and the corresponding feature sets to complete the prediction phase using the MLs. 
+* **Data Processing**: The idea of NLP is that we are allowing the computer to break down the sentence by tokenization – the process of converting a sequence of text into smaller parts, known as tokens – and part-of-speech tagging (POS) to analyze the semantics and associate with a feature to distinguish between TD, ASD, or SLI children. Such a method would allow NLP to be executed to measure such as the mean length of utterance, total number of words, and even sentence complexity for intelligence and more. *As a common trait, many features are usually employed to detect LI in children, and feature with algorithm enhances the precision (Lee, 2016, pg. 6). With supervised classification, “detecting patterns is central to NLP as these patterns usually hold new meaning that can be derived from a sentence” (Lee, 2016, pg. 6). As for this research, Lee was using supervised classification, which means after NLP finds the features, the training was done under supervision to teach what is true to generate models and the corresponding feature sets to complete the prediction phase using the MLs.
+
+| Step               | Description                                                                                        |
+| ------------------ | -------------------------------------------------------------------------------------------------- |
+| **1. Feature Selection** | Choosing which features will be used to find patterns (NLP).                                   |
+| **2. Training**         | Supervised Classification: The model is trained using pairs of labels and feature sets.              |
+| **3. Prediction**       | The model uses these learned patterns to predict labels for new inputs.                             |
+
+**Training based on pairs of labels and feature sets + corpora:**
+In the context of a supervised classifier, "corpora" refers to a collection of data used for training the classifier. This dataset includes both the input data and their corresponding correct labels.
+
+
 
 ![](/Medthod_2.png)
 
