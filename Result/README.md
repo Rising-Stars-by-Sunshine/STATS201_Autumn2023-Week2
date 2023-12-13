@@ -17,15 +17,15 @@ Below are the results without the teaching process. This result will be compared
 
 ## Processed Result
 <p float="left">
-  <img src="/Code/Data-Analysis/Processed/DecisionTree.png" width="240" />
-  <img src="/Code/Data-Analysis/Processed/EnsembleM.png" width="240" />
-  <img src="/Code/Data-Analysis/Processed/GaussianN.png" width="240" />
+  <img src="/Result/DecisionTree.png" width="240" />
+  <img src="/Result/EnsembleM.png" width="240" />
+  <img src="/Result/GaussianN.png" width="240" />
 </p>
 <p float="left">
-  <img src="/Code/Data-Analysis/Processed/K-Nearest.png" width="240" />
-  <img src="/Code/Data-Analysis/Processed/NeuralN.png" width="240" />
-  <img src="/Code/Data-Analysis/Processed/RandomF.png" width="240" />
-  <img src="/Code/Data-Analysis/Processed/SVM.png" width="240" />
+  <img src="/Result/K-Nearest.png" width="240" />
+  <img src="/Result/NeuralN.png" width="240" />
+  <img src="/Result/RandomF.png" width="240" />
+  <img src="/Result/SVM.png" width="240" />
 </p>
 
 # Overall Graphic Result
