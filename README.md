@@ -28,7 +28,7 @@
 
 
 ## Spotlight
-![](WholePoster.png)
+![](overallPoster.png)
 
 ## More about the Author
 I am an undergraduate student at Duke Kunshan University. Driven by a keen interest in education and a passion for effective communication, many of my projects aim to deliver informative and interactive messages. As I aspire to expand my capabilities in design, my curiosity and enthusiasm for machine learning led me to pursue this course.
