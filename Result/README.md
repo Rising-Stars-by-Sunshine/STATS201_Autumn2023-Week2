@@ -28,7 +28,8 @@ The result are divided in the catagory of pre-processed and processed. In such w
   <img src="/Result/SVM_Result.png" width="240" />
 </p>
 
-With calculating the numbers of accruate predictions 
+## Processed Result Comparision
+By tabulating both the count of accurate predictions and the individual performance of each machine learning algorithm, I've generated a chart that organizes the results from most accurate to least accurate. Comparing these findings to Lee's, it's intriguing that, like Lee's results, the soft voting ensemble method is the best predictor—logical given its ability to choose the best-performing algorithms. However, the notable discovery is that Random Forest emerges as the second-best, suggesting it excels as a standalone algorithm for prediction.
 |            | SLI | ASD | TD |
 |------------|-----|-----|----|
 | Ensembled  | 26  | 8   | 36 |
