@@ -48,6 +48,67 @@ My portfolio Website: yuripark.me
 ### Code Source
   * **Lee's Research**: https://github.com/jamsawamsa/Autism_SLI_textAnalyzer_NLP_ML.git
 
-### Articles
-### Literature 
+### Articles & Literature 
+Borovsky, Arielle, Donna Thal, and Laurence B. Leonard. “Moving towards Accurate and Early Prediction of Language Delay with Network Science and Machine Learning Approaches.” Scientific Reports 11, no. 1 (April 14, 2021). https://doi.org/10.1038/s41598-021-85982-0.
 
+Dewi, Erina S., and Elly M. Imah. “Comparison of Machine Learning Algorithms for Autism Spectrum Disorder Classification.” www.atlantis-press.com. Atlantis Press, November 24, 2020. https://doi.org/10.2991/aer.k.201124.028.
+
+Félix, Juliana, Maria Emília Santos, and Antonio Benitez-Burraco. “Specific Language Impairment, Autism Spectrum Disorders and Social (Pragmatic) Communication Disorders: Is There Overlap in Language Deficits? A Review.” Review Journal of Autism and Developmental Disorders, August 4, 2022. https://doi.org/10.1007/s40489-022-00327-5.
+
+Lee, Zhong Kein James. “Autism_SLI_textAnalyzer_NLP_ML/Use_of_NLP_and_ML_to_clinically_access_children.pdf at Master · Jamsawamsa/Autism_SLI_textAnalyzer_NLP_ML.” Autism_SLI_textAnalyzer_NLP_ML. GitHub, October 22, 2016. https://github.com/jamsawamsa/Autism_SLI_textAnalyzer_NLP_ML/blob/master/Use_of_NLP_and_ML_to_clinically_access_children.pdf.
+
+NIDCD. “Developmental Language Disorder,” May 8, 2023. https://www.nidcd.nih.gov/health/developmental-language-disorder#Is-DLD-same.
+
+
+@misc{a2023_developmental,
+  month = {05},
+  title = {Developmental Language Disorder},
+  url = {https://www.nidcd.nih.gov/health/developmental-language-disorder#Is-DLD-same},
+  year = {2023},
+  organization = {NIDCD}
+}
+
+@article{flix_2022_specific,
+  author = {Félix, Juliana and Santos, Maria Emília and Benitez-Burraco, Antonio},
+  month = {08},
+  title = {Specific Language Impairment, Autism Spectrum Disorders and Social (Pragmatic) Communication Disorders: Is There Overlap in Language Deficits? A Review},
+  doi = {10.1007/s40489-022-00327-5},
+  urldate = {2022-08-09},
+  year = {2022},
+  journal = {Review Journal of Autism and Developmental Disorders}
+}
+
+@article{borovsky_2021_moving,
+  author = {Borovsky, Arielle and Thal, Donna and Leonard, Laurence B.},
+  month = {04},
+  title = {Moving towards accurate and early prediction of language delay with network science and machine learning approaches},
+  doi = {10.1038/s41598-021-85982-0},
+  urldate = {2022-10-25},
+  volume = {11},
+  year = {2021},
+  journal = {Scientific Reports}
+}
+
+@misc{dewi_2020_comparison,
+  author = {Dewi, Erina S. and Imah, Elly M.},
+  month = {11},
+  pages = {152–159},
+  publisher = {Atlantis Press},
+  title = {Comparison of Machine Learning Algorithms for Autism Spectrum Disorder Classification},
+  doi = {10.2991/aer.k.201124.028},
+  url = {https://www.atlantis-press.com/proceedings/ijcse-20/125946383},
+  urldate = {2023-12-13},
+  year = {2020},
+  organization = {www.atlantis-press.com}
+}
+
+@misc{lee_2016_autism_sli_textanalyzer_nlp_mluse_of_nlp_and_ml_to_clinically_access_childrenpdf,
+  author = {Lee, Zhong Kein James},
+  month = {10},
+  publisher = {GitHub},
+  title = {Autism_SLI_textAnalyzer_NLP_ML/Use_of_NLP_and_ML_to_clinically_access_children.pdf at master · jamsawamsa/Autism_SLI_textAnalyzer_NLP_ML},
+  url = {https://github.com/jamsawamsa/Autism_SLI_textAnalyzer_NLP_ML/blob/master/Use_of_NLP_and_ML_to_clinically_access_children.pdf},
+  urldate = {2023-12-13},
+  year = {2016},
+  organization = {Autism_SLI_textAnalyzer_NLP_ML}
+}
