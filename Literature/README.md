@@ -1,5 +1,5 @@
 # Literature Review's Breakdown
-The literature reivew section is broken down into 4 differnet parts to better understnad and preapre the research question that will be answered: Can Random Forest surpass the consistently high-performing SVM, which attained an accuracy score of 87% +/- 3% in Lee's study (Lee, 2016, pg. 32)? Furthermore, how can the addition of Random Forest contribute to a deeper understanding of language impairment, propelling research advancements in this field?
+The literature reivew section is broken down into 3 differnet parts to better understnad and preapre the research question that will be answered: Can Random Forest surpass the consistently high-performing SVM, which attained an accuracy score of 87% +/- 3% in Lee's study (Lee, 2016, pg. 32)? Furthermore, how can the addition of Random Forest contribute to a deeper understanding of language impairment, propelling research advancements in this field?
 
 ## [What is Lee's Research Project Like](/Literature/Lee_Research)
 The literature review of Lee's project provides a summary of the most significant findings and outlines the steps taken in his research, serving as a guide for replication. Therefore, comprehending Lee's research is pivotal for a thorough understanding of the background and context of my own study.
