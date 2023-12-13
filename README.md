@@ -26,16 +26,26 @@
   * **References**: Citations and sources used in the document.
 
 
-## Introduction
-I am an undergraduate student from Duke Kunshan University.
-With my special interest in education and passion in communication,
-many of may projects involve communicating messages that are
-educative at the same time, interactive. 
-With using P5.Js mainly, most of the projects are done in JavaScript.
 
+## Spotlight
+![](WholePoster.png)
+
+## More about the Author
+I am an undergraduate student at Duke Kunshan University. Driven by a keen interest in education and a passion for effective communication, many of my projects aim to deliver informative and interactive messages. As I aspire to expand my capabilities in design, my curiosity and enthusiasm for machine learning led me to pursue this course.
 ![](ProfileImage.png)
 
-My portfolio (updating): https://fabulous-kleicha-2e1a9d.netlify.app/
+My portfolio Website: yuripark.me
+
+### Final reflections
+  * **Intellectual growthh**: Acquiring knowledge in machine learning has provided me with a deeper understanding of its current applications. The utilization of machine learning and various packages has enabled the intricate comprehension and visualization of complex data. Its distinctive learning and prediction capabilities have broadened my perspective on what can be achieved within the realm of my design capabilities. Recognizing its potential for conducting causal inference has further piqued my interest, prompting a desire to explore the extent to which machine learning will revolutionize the world and continue to evolve.
+  * **Professional growth**: Gaining a general understanding of machine learning has significantly contributed to my professional growth, enabling me to engage in discussions with a diverse range of designers and artists. Particularly, in light of the prevailing trend where many designers utilize machine learning as a tool to enhance their work, I view my decision to advance my professional growth in this direction as a meaningful step forward.
+  * **Living a purposeful life**: In the future, I aspire to be acknowledged as a designer characterized by a commitment to care. Given that many of my projects center around improving the learning process and addressing global issues, I aim to be recognized within the design community as a leading advocate for compassionate design.
+
+
+
+
+
+
 
 ## Current Project's Goal
 Under the inspiration of [Lee's research](https://github.com/jamsawamsa/Autism_SLI_textAnalyzer_NLP_ML.git), my research focuses on the potential of the Random Forest algorithm in addressing the conclusion from Lee's 2016 study, which stated: “Comparing the confusion matrices of all classifiers, it is observed that the ASD class has the lowest precision and F-measure across all classes, even after feature extraction” (Lee, 2016, pg. 33). I would like to know if precision for ASD can be improved as This interest is according to Dewi and Imah's 2020 research, it’s found that 'based on the specificity and sensitivity value, the Random Forest algorithm with full features is the best algorithm compared to others in classifying ASD in children and adolescents' (Dewi & Imah, 2020, pg. 152). Therefore, I am eager to explore whether Random Forest can not only solve the issues identified in Lee's study but also outperform the SVM, which was the most consistent and best-performing machine learning algorithm in Lee's research, with an accuracy score of 87% +/- 3% (Lee, 2016, pg. 32)."
@@ -61,6 +71,3 @@ Under the inspiration of [Lee's research](https://github.com/jamsawamsa/Autism_S
 For this project to continue, the following needs to be completed in the order of hierarchy
 1. Implement the code based on Lee's research
 2. Study the Random Forest ML equation and consider what is the parameter setting for Random Forest
-
-# Whole Poster
-![](WholePoster.png)
