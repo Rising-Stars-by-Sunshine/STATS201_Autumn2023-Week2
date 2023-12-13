@@ -11,3 +11,4 @@ Here is the word-for-word breakdown of the questions Lee is answering in his res
 ![](/Literature/Lee_Research/Lee_1.png)
 ![](/Literature/Lee_Research/Lee_2.png)
 ![](/Literature/Lee_Research/Lee_3.png)
+If you want to read [Lee's Full Work](https://github.com/jamsawamsa/Autism_SLI_textAnalyzer_NLP_ML.git)
