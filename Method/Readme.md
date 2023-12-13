@@ -14,6 +14,8 @@
 * **Justification**:As discussed in the literature review, the efficacy of the Random Forest algorithm in classifying Specific Language Impairment (SLI) and Autism Spectrum Disorder (ASD) stands out, demonstrating superior efficiency in the language impairment classification process. Additionally, Dewi and Imah's 2020 research emphasizes the Random Forest algorithm's superiority, stating that, 'based on specificity and sensitivity values, the Random Forest algorithm with full features is the optimal choice for classifying ASD in children and adolescents' (Dewi & Imah, 2020, pg. 152). This prompts my curiosity to explore whether Random Forest can not only address the challenges identified in Lee's study but also surpass the performance of Support Vector Machine (SVM), which was the most consistent and highest-performing machine learning algorithm in Lee's research, boasting an accuracy score of 87% +/- 3% (Lee, 2016, pg. 32).
 * **Machine Learning Algorithm Selection**: As stated above with the reasonings, Random Forest is the chosen algorithm.
 
+![](/Method/machieneMethod.png)
+
 # The Machine Learning Workflow
 
 ## Model Development:
@@ -32,7 +34,9 @@ In all, for the training and testing, "70% of the samples will be used to train 
 ## Model Evaluation
 Concerning data visualization, I will utilize a confusion matrix and KNN clustering to compare the outcomes of each machine learning algorithm both before and after feature extraction. This approach aims to thoroughly assess the effectiveness of Random Forest in comparison to the other algorithms.
 
-### Citation
+![](/Method/overallLiterature.png)
+
+## Citation
 
 Dewi, E. S., & Imah, E. M. (2020). Comparison of machine learning algorithms for Autism Spectrum Disorder Classification. Proceedings of the International Joint Conference on Science and Engineering (IJCSE 2020). https://doi.org/10.2991/aer.k.201124.028 
 
@@ -40,5 +44,3 @@ Lee, Z. K. J. (2016). Use of Natural Language Processing and Machine Learning Te
 
 Qureshi, M. S., Qureshi, M. B., Asghar, J., Alam, F., & Aljarbouh, A. (2023). Prediction and analysis of Autism Spectrum Disorder Using Machine Learning Techniques. Journal of Healthcare Engineering, 2023, 1–10. https://doi.org/10.1155/2023/4853800 
 
-### Simplified Ideation of Prediction Problem & Machine Learning
-![](/Medthod_4.png)
