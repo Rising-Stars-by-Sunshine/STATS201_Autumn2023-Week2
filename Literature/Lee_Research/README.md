@@ -7,7 +7,7 @@ Here is the word-for-word breakdown of the questions Lee is answering in his res
 > **Question 3**: Which of the linguistic patterns, including morphology, phonology, syntax and semantics, are indicators of some form of language disorder? <br>
 > **Question 4**: Which of the machine learning model is best at identifying and classifying children with language disorders compared to their counterparts?”
 
-## Full Summary [Paper](Literature/Lee_Research/Lee_LiteraturePaper.pdf)
+## Full Summary [Paper](/Literature/Lee_Research/Lee_LiteraturePaper.pdf)
 ![](/Literature/Lee_Research/Lee_1.png)
 ![](/Literature/Lee_Research/Lee_2.png)
 ![](/Literature/Lee_Research/Lee_3.png)
