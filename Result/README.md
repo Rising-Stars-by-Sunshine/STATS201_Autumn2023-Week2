@@ -3,7 +3,7 @@ Below are the results without the teaching process. This result will be compared
 
 ## Pre-processed Result
 <p float="left">
-  <img src="/Code/Data-Analysis/Pre-processed/Pre_DecisionTree.png" width="240" />
+  <img src="/Result/Pre_DecisionTree.png" width="240" />
   <img src="/Code/Data-Analysis/Pre-processed/Pre_EnsembleM.png" width="240" />
   <img src="/Code/Data-Analysis/Pre-processed/Pre_GaussianN.png" width="240" />
 </p>
