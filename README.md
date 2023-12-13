@@ -1,4 +1,4 @@
-# Random forest in Classifying Specific Language Impairment (SLI) / Autistic Specturm Disorder (ASD) / Typically Developing (TD)
+# Random forest in Classifying Specific Language Impairment (SLI) / Autistic Spectrum Disorder (ASD) / Typically Developing (TD)
 
 ## Project Information
    * **Author**: Yuri Park, Computation and Design - Digital Media, 2025, Duke Kunshan University
@@ -13,7 +13,7 @@
    * **Results**: Two key outcomes facilitate the comparison process. Firstly, employing the confusion matrix from sklearn allows us to evaluate the accuracy of machine learning algorithms by juxtaposing their predictions against the actual answers. Secondly, leveraging the classification tool from sklearn provides a visual representation of the accuracy range for each machine learning algorithm, particularly in the identification of SLI, ASD, and TD. Additionally, as a supplementary component, the report will highlight the most significant features identified after the complete classification process.
      * Ultimately, the findings revealed that the random forest algorithm performed exceptionally well, ranking as the best algorithm after the SoftVotingEnsembleMethod. Consequently, it is safe to conclude that the random forest demonstrates accurate predictions, aligning with reports from 2023 and validating Lee's research method as consistent with current trends.
     
-   * **Intellectual Merit/Practical impact**: Having recognized the random forest as the most effective individual algorithm in this field of study, there is an opportunity for additional investigation to uncover the underlying reasons for its optimal performance. However, a more significant revelation arises from the minor findings: the identification of the most crucial features for detection. This discovery holds the potential to provide novel insights, offering valuable input for advancing the field. Understanding these indicative features can play a pivotal role in enhancing early detection efforts and other applications within the domain.
+   * **Intellectual Merit/Practical Impact**: Having recognized the random forest as the most effective individual algorithm in this field of study, there is an opportunity for additional investigation to uncover the underlying reasons for its optimal performance. However, a more significant revelation arises from the minor findings: the identification of the most crucial features for detection. This discovery holds the potential to provide novel insights, offering valuable input for advancing the field. Understanding these indicative features can play a pivotal role in enhancing early detection efforts and other applications within the domain.
 
 ## Table of Contents
   * **[Literature](Literature/README.md)**: Review of relevant existing literature.
@@ -35,7 +35,7 @@ I am an undergraduate student at Duke Kunshan University. Driven by a keen inter
 My portfolio Website: yuripark.me
 
 ### Final reflections
-  * **Intellectual growthh**:
+  * **Intellectual Growth**:
     * **Through Class**: Gaining proficiency in machine learning has afforded me a more profound comprehension of its contemporary applications. In the realm of social science, employing machine learning and diverse packages to address societal issues has empowered me to explore and resolve these topics more thoroughly. Moreover, the classroom setting facilitated a better grasp of machine learning applications, as students could conduct research aligned with their individual interests. Consequently, the class structure and environment significantly facilitated my in-depth exploration of the practical applications of machine learning.
     * **Interdisciplinary Growth**: In taking this course and hearing everyone's research directions, I was able to observe how interdisciplinary collaboration truly unfolds in research. Specifically, as a computation and design major, most of my research stems from design thinking. However, adding a research topic concerning the global health and linguistic perspective of the impact and features of language impairment allowed me to further broaden my knowledge. Furthermore, witnessing the different approaches that students from various majors take in conducting this research was intriguing. For instance, computer science students may focus more on the coding and efficiency aspects, while I, with a design thinking perspective, consider the potential impact of such research in the context of design. It was interesting to see the diversity of approaches.
 
