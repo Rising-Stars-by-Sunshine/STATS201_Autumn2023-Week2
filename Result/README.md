@@ -1,4 +1,4 @@
-# Result
+# Main Result Output
 The result are divided in the catagory of pre-processed and processed. In such way, understading of the before and after the application of each algorithm can be obsereved.
 
 ## Pre-processed Result
@@ -40,6 +40,14 @@ By tabulating both the count of accurate predictions and the individual performa
 | Gaussian | 25 | 8 | 26 |
 | SVM | 22 | 6 | 30 |
 
-# Overall Classification Result
+## Overall Classification Result
 ![](/Result/Classification_Result.png)
 As depicted in the graph above, the effectiveness of each algorithm in detection can be gauged by the extent to which the color encapsulates the actual points plotted on the linear graph. Notably, the results for Random Forest reveal a broader coverage of specific ranges compared to other algorithms. This observation highlights the heightened specificity achieved by the Random Forest algorithm in the detection process.
+
+# Minor Result Output
+![](/Result/Feature_Result.png)
+
+# Result Analysis
+With my research question being
+> Can Random Forest surpass the consistently high-performing SVM, which attained an accuracy score of 87% +/- 3% in Lee's study (Lee, 2016, pg. 32)? Furthermore, how can the addition of Random Forest contribute to a deeper understanding of language impairment, propelling research advancements in this field?
+
