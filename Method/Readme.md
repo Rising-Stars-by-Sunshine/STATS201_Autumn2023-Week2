@@ -17,20 +17,22 @@
 # The Machine Learning Workflow
 
 ## Model Development:
-The idea of NLP is that we are allowing the computer to break down the sentence by tokenization – the process of converting a sequence of text into smaller parts, known as tokens – and part-of-speech tagging (POS) to analyze the semantics and associate with a feature to distinguish between TD, ASD, or SLI children. Such a method would allow NLP to be executed to measure such as the mean length of utterance, total number of words, and even sentence complexity for intelligence and more. *As a common trait, many features are usually employed to detect LI in children, and feature with algorithm enhances the precision (Lee, 2016, pg. 6).
+* **Data Processing**: The idea of NLP is that we are allowing the computer to break down the sentence by tokenization – the process of converting a sequence of text into smaller parts, known as tokens – and part-of-speech tagging (POS) to analyze the semantics and associate with a feature to distinguish between TD, ASD, or SLI children. Such a method would allow NLP to be executed to measure such as the mean length of utterance, total number of words, and even sentence complexity for intelligence and more. *As a common trait, many features are usually employed to detect LI in children, and feature with algorithm enhances the precision (Lee, 2016, pg. 6).
 
 With supervised classification, “detecting patterns is central to NLP as these patterns usually hold new meaning that can be derived from a sentence” (Lee, 2016, pg. 6). As for this research, Lee was using supervised classification, which means after NLP finds the features, the training was done under supervision to teach what is true to generate models and the corresponding feature sets to complete the prediction phase using the MLs. 
 
 ![](/Medthod_2.png)
 
-## Result Presentation & Model Evaluation
-With ML, ML algorithm is employed to predict classification labels like TD (Typically Developing), ASD (Autism Spectrum Disorder), or SLI (Specific Language Impairment) based on the input data. Each algorithm employs a distinct method to reach its conclusions, which allows for observation and analysis of how features are classified and detected. Consequently, different ML algorithms yield varying results. This variation implies that each algorithm has its unique strengths. Poliker's strategy capitalizes on this by using multiple learning algorithms simultaneously, aiming to achieve higher predictive capability than what would be possible with each algorithm individually (Lee, 2016, pg. 7). Thus, as my research is based on Lee’s research, I would do the similar. Thus, even for the data visualization, using a confusion matrix, I will compare the results of each ML algorithm before and after the feature extraction to each other as well as to the baseline performance as the evaluation(Lee, 2016, pg. 20).
+## Result Presentation
+* **Training and Testing**: 
+During the feature measurement phase, the program processes cleaned datasets of child text corpora, systematically enumerating various features. The ensuing section comprehensively outlines this array of features. These features are organized into an array format, with corresponding dataset labels appended, creating a structure of n samples by n features. This phase readies the data for subsequent stages (Lee, 2016, pg. 12).
 
-Specifically, for evaluation purposes, metrics such as precision, recall, and F-measure will be calculated using the following formula. 
+The subsequent phase of the program is the training phase. In this stage, machine learners are provided with the measured features and their corresponding labels as inputs. The machine learner endeavors to categorize the labels based on the significance of each feature within the dataset during the training phase. Initially, all calculated features are utilized in the first round of training and prediction. Following this initial round, the program identifies the most indicative features, generating a refined set. Subsequent training and prediction phases then employ this smaller set of more indicative features, with the results being reported (Lee, 2016, pg. 12).
 
-![](/Medthod_3.png)
+In all, for the training and testing, "70% of the samples will be used to train and test the machine learner. The remaining 30% would be for actual predictions (Lee, 2016, pg. 18)".
 
-Additionally, by introducing the Random Forest algorithm as an additional machine learning model, we will assess its performance based on parameters provided by Random Forest, such as max depth.
+## Model Evaluation
+Concerning data visualization, I will utilize a confusion matrix and KNN clustering to compare the outcomes of each machine learning algorithm both before and after feature extraction. This approach aims to thoroughly assess the effectiveness of Random Forest in comparison to the other algorithms.
 
 ### Citation
 
