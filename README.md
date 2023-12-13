@@ -16,7 +16,7 @@
    * **Intellectual Merit/Practical impact**: Having recognized the random forest as the most effective individual algorithm in this field of study, there is an opportunity for additional investigation to uncover the underlying reasons for its optimal performance. However, a more significant revelation arises from the minor findings: the identification of the most crucial features for detection. This discovery holds the potential to provide novel insights, offering valuable input for advancing the field. Understanding these indicative features can play a pivotal role in enhancing early detection efforts and other applications within the domain.
 
 ## Table of Contents
-  * **Literature**: Review of relevant existing literature.
+  * **[Literature](Literature/README.md)**: Review of relevant existing literature.
   * **Method**: Description of the methodology employed in the research.
   * **Data**: Information about the data used in the study.
   * **Code**: Details related to the code or computational methods used.
