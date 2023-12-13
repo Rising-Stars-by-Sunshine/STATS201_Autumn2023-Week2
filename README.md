@@ -1,4 +1,5 @@
-# Random forest in Classifying SLI / ASD / TD
+# Random forest in Classifying Specific Language Impairment / Autistic Specturm Disorder / Typically Developing
+Specific Language Impairment (SLI) / Autistic Specturm Disorder (ASD) / Typically Developing (TD)
 
 ## Project Information
    * **Author**: Yuri Park, Computation and Design - Digital Media, 2025, Duke Kunshan University
