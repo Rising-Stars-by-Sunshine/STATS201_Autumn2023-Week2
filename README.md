@@ -19,7 +19,7 @@
   * **[Literature](Literature/README.md)**: Review of relevant existing literature.
   * **[Method](Method/Readme.md)**: Description of the methodology employed in the research.
   * **[Data](Data/README.md)**: Information about the data used in the study.
-  * **Code**: Details related to the code or computational methods used.
+  * **[Code](Code/README.md)**: Details related to the code or computational methods used.
   * **Results**: Presentation and analysis of the research findings.
   * **Spotlight**: A special section highlighting specific aspects of the research.
   * **More about the Author**: Information about the background and qualifications of the researcher.
