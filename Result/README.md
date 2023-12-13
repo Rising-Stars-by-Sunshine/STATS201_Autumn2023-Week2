@@ -40,5 +40,6 @@ By tabulating both the count of accurate predictions and the individual performa
 | Gaussian | 25 | 8 | 26 |
 | SVM | 22 | 6 | 30 |
 
-# Overall Graphic Result
+# Overall Classification Result
 ![](/Result/Classification_Result.png)
+As depicted in the graph above, the effectiveness of each algorithm in detection can be gauged by the extent to which the color encapsulates the actual points plotted on the linear graph. Notably, the results for Random Forest reveal a broader coverage of specific ranges compared to other algorithms. This observation highlights the heightened specificity achieved by the Random Forest algorithm in the detection process.
