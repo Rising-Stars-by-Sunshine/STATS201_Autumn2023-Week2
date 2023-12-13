@@ -1,3 +1,8 @@
+# Result Analysis
+With my research question being
+> Can Random Forest surpass the consistently high-performing SVM, which attained an accuracy score of 87% +/- 3% in Lee's study (Lee, 2016, pg. 32)? Furthermore, how can the addition of Random Forest contribute to a deeper understanding of language impairment, propelling research advancements in this field?
+the results below help answer the two questions asked
+
 # Main Result Output
 The result are divided in the catagory of pre-processed and processed. In such way, understading of the before and after the application of each algorithm can be obsereved.
 
@@ -42,12 +47,13 @@ By tabulating both the count of accurate predictions and the individual performa
 
 ## Overall Classification Result
 ![](/Result/Classification_Result.png)
-As depicted in the graph above, the effectiveness of each algorithm in detection can be gauged by the extent to which the color encapsulates the actual points plotted on the linear graph. Notably, the results for Random Forest reveal a broader coverage of specific ranges compared to other algorithms. This observation highlights the heightened specificity achieved by the Random Forest algorithm in the detection process.
+Illustrated in the above graph, the efficiency of each algorithm in detection is assessed based on the degree to which the color encompasses the actual points plotted on the linear graph. Noteworthy, the outcomes for Random Forest demonstrate a wider coverage of specific ranges compared to other algorithms. This observation underscores the heightened specificity attained by the Random Forest algorithm in the detection process.
+
+> Hence, regarding the first hypothesis, it is safe to conclude that our initial assumption has been affirmed. The evidence supports the assertion that Random Forest is indeed the most effective algorithm for conducting the overall classification process when compared to other algorithms.
 
 # Minor Result Output
 ![](/Result/Feature_Result.png)
+The image on the left displays the rankings of the most important features before the implementation of the random forest. On the right, the image illustrates the rankings after the addition of the random forest. Notably, the top important feature remains consistent; however, the features following the first one differ entirely. These findings affirm a positive response to the second question, indicating a change in the importance of features. However, a comprehensive explanation is intentionally omitted, as it is intended for further research.
 
-# Result Analysis
-With my research question being
-> Can Random Forest surpass the consistently high-performing SVM, which attained an accuracy score of 87% +/- 3% in Lee's study (Lee, 2016, pg. 32)? Furthermore, how can the addition of Random Forest contribute to a deeper understanding of language impairment, propelling research advancements in this field?
+>  In the conclusion of the second hypothesis, it becomes evident that the addition of Random Forest has yielded unexpected findings. These go beyond merely confirming its efficacy and extend to revealing valuable insights—specifically, identifying more accurate features that significantly impact the prediction process.
 
