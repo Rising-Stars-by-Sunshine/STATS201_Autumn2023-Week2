@@ -24,15 +24,10 @@
 | Step               | Description                                                                                        |
 | ------------------ | -------------------------------------------------------------------------------------------------- |
 | **1. Feature Selection** | Choosing which features will be used to find patterns (NLP).                                   |
-| **2. Training**         | Supervised Classification: The model is trained using pairs of labels and feature sets.              |
+| **2. Training**         | Supervised Classification: The model is trained using pairs of labels and feature sets and corpa.              |
 | **3. Prediction**       | The model uses these learned patterns to predict labels for new inputs.                             |
 
-**Training based on pairs of labels and feature sets + corpora:**
-In the context of a supervised classifier, "corpora" refers to a collection of data used for training the classifier. This dataset includes both the input data and their corresponding correct labels.
-
-
-
-![](/Medthod_2.png)
+_In the context of a supervised classifier, "corpora" refers to a collection of data used for training the classifier. This dataset includes both the input data and their corresponding correct labels._
 
 ## Result Presentation
 * **Training and Testing**: 
