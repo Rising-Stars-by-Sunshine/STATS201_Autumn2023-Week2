@@ -10,4 +10,4 @@
 
 ![](/Data/DataQuery.png)
 
-Upon generating the Output_file, proceed to the machine learning algorithm processing by executing it through the classifier_m.py script.
+Upon generating the output_file, proceed to the machine learning algorithm processing by executing it through the classifier_m.py script.
