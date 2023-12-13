@@ -21,7 +21,7 @@ doing so, you should import and update the package information on the same track
 
 Example: If your terminal responds /Users/yuri/opt/anaconda3/bin/python when you run which python, you need to manually change the Python Interpreter from (if you are a Mac user) PyCharm > Settings > Python Interpreter > Add and have Anaconda with the path you have given in the terminal response
 
-![](/Demo_Anaconda.png)
+![](/Code/Data-Query/Demo_Anaconda.png)
 
 * Download all the necessary packages that were mentioned briefly in the Data Query steps
 Check the warnings: Some packages need to be updated in terms of the version of the other following package that works hand in hand thus,
