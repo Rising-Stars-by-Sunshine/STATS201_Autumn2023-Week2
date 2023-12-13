@@ -14,7 +14,18 @@
      * Ultimately, the findings revealed that the random forest algorithm performed exceptionally well, ranking as the best algorithm after the SoftVotingEnsembleMethod. Consequently, it is safe to conclude that the random forest demonstrates accurate predictions, aligning with reports from 2023 and validating Lee's research method as consistent with current trends.
     
    * **Intellectual Merit/Practical impact**: Having recognized the random forest as the most effective individual algorithm in this field of study, there is an opportunity for additional investigation to uncover the underlying reasons for its optimal performance. However, a more significant revelation arises from the minor findings: the identification of the most crucial features for detection. This discovery holds the potential to provide novel insights, offering valuable input for advancing the field. Understanding these indicative features can play a pivotal role in enhancing early detection efforts and other applications within the domain.
-     
+
+## Table of Contents
+  * **Literature**: Review of relevant existing literature.
+  * **Method**: Description of the methodology employed in the research.
+  * **Data**: Information about the data used in the study.
+  * **Code**: Details related to the code or computational methods used.
+  * **Results**: Presentation and analysis of the research findings.
+  * **Spotlight**: A special section highlighting specific aspects of the research.
+  * **More about the Author**: Information about the background and qualifications of the researcher.
+  * **References**: Citations and sources used in the document.
+
+
 ## Introduction
 I am an undergraduate student from Duke Kunshan University.
 With my special interest in education and passion in communication,
