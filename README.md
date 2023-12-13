@@ -17,7 +17,7 @@
 
 ## Table of Contents
   * **[Literature](Literature/README.md)**: Review of relevant existing literature.
-  * **Method**: Description of the methodology employed in the research.
+  * **[Method](Method/README.md)**: Description of the methodology employed in the research.
   * **Data**: Information about the data used in the study.
   * **Code**: Details related to the code or computational methods used.
   * **Results**: Presentation and analysis of the research findings.
