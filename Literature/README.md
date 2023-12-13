@@ -12,3 +12,4 @@ Through a comprehensive literature review on language impairment in children, th
 
 ## Overall
 The literature research has provided valuable insights into the conduct of research in this field, elucidating the challenges associated with detecting Specific Language Impairment (SLI) and Autism Spectrum Disorder (ASD). It has also shed light on the effectiveness of Random Forest in this research domain. The details concerning features, particularly the methodology behind Random Forest, will play a crucial role in implementing aspects of Lee's work into my research. However, there is room for further exploration of findings related to important features, warranting additional research in this area.
+![]()
