@@ -29,4 +29,4 @@ Below are the results without the teaching process. This result will be compared
 </p>
 
 # Overall Graphic Result
-![](/Code/Data-Analysis/Overall.png)
+![](/Result/Classification_Result.png)
