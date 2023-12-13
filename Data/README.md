@@ -7,4 +7,7 @@
 * Objective: Preprocess the raw data to prepare it for further analysis.
 * Action: Execute the driver_m.py script. This script processes the raw data and generates an intermediate file named "output_file". This file contains essential features extracted from the data and is crucial for the next step of the analysis.
 
+
 ![](/Data_Breakdown.png)
+
+Upon generating the Output_file, proceed to the machine learning algorithm processing by executing it through the classifier_m.py script.
