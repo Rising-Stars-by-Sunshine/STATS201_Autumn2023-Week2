@@ -4,15 +4,15 @@ Below are the results without the teaching process. This result will be compared
 ## Pre-processed Result
 <p float="left">
   <img src="/Result/Pre_DecisionTree.png" width="240" />
-  <img src="/Code/Data-Analysis/Pre-processed/Pre_EnsembleM.png" width="240" />
-  <img src="/Code/Data-Analysis/Pre-processed/Pre_GaussianN.png" width="240" />
+  <img src="/Result/Pre_EnsembleM.png" width="240" />
+  <img src="/Result/Pre_GaussianN.png" width="240" />
 </p>
 
 <p float="left">
-  <img src="/Code/Data-Analysis/Pre-processed/Pre_K-Nearest.png" width="240" />
-  <img src="/Code/Data-Analysis/Pre-processed/Pre_NeuralN.png" width="240" />
-  <img src="/Code/Data-Analysis/Pre-processed/Pre_RandomF.png" width="240" />
-  <img src="/Code/Data-Analysis/Pre-processed/Pre_SVM.png" width="240" />
+  <img src="/Result/Pre_K-Nearest.png" width="240" />
+  <img src="/Result/Pre_NeuralN.png" width="240" />
+  <img src="/Result/Pre_RandomF.png" width="240" />
+  <img src="/Result/Pre_SVM.png" width="240" />
 </p>
 
 ## Processed Result
